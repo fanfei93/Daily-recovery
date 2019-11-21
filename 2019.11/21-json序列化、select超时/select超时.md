@@ -11,7 +11,6 @@ import (
 	"log"
 	"os"
 	"runtime/pprof"
-	_ "runtime/pprof"
 	"time"
 )
 
