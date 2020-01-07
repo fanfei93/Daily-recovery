@@ -176,6 +176,9 @@
     <history-entry file="Test_xorQueries_in_leetcode_1310 - 2020.01.07 at 14h 38m 06s.xml">
       <configuration name="Test_xorQueries in leetcode/1310" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="Test_freqAlphabets_in_leetcode_1309 - 2020.01.07 at 14h 44m 15s.xml">
+      <configuration name="Test_freqAlphabets in leetcode/1309" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
