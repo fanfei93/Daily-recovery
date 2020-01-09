@@ -28,14 +28,17 @@ package main
  */
 
 func sumZero(n int) []int {
-	res := make([]int,0)
+	res := make([]int,n)
+	index := 0
 	if n % 2 != 0 {
-		res = append(res,0)
+		res[index] = 0
 		n--
+		index++
 	}
 	for i := 1; i <= n / 2; i++ {
-		res = append(res,i)
-		res = append(res,-i)
+		res[index] = i
+		res[index+1] = -i
+		index += 2
 	}
 	return res
 }
