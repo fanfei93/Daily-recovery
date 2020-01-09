@@ -54,7 +54,7 @@ n == watchedVideos.length == friends.length
 链接：https://leetcode-cn.com/problems/get-watched-videos-by-your-friends
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
- 
+
 func watchedVideosByFriends(watchedVideos [][]string, friends [][]int, id int, level int) []string {
 	friendsMap := make(map[int]bool)
 	ids := []int{id}
