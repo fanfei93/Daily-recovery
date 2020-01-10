@@ -28,17 +28,27 @@ package main
  */
 
 func sumZero(n int) []int {
+	//res := make([]int,n)
+	//index := 0
+	//if n % 2 != 0 {
+	//	res[index] = 0
+	//	n--
+	//	index++
+	//}
+	//for i := 1; i <= n / 2; i++ {
+	//	res[index] = i
+	//	res[index+1] = -i
+	//	index += 2
+	//}
+	//return res
+
+	//思路2
 	res := make([]int,n)
-	index := 0
-	if n % 2 != 0 {
-		res[index] = 0
-		n--
-		index++
+	var sum int
+	for i:= 0; i < n-1; i++ {
+		res[i] = i
+		sum += i
 	}
-	for i := 1; i <= n / 2; i++ {
-		res[index] = i
-		res[index+1] = -i
-		index += 2
-	}
+	res[n-1] = -sum
 	return res
 }

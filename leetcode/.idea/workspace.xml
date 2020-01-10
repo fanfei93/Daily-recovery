@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67952c84-c0e5-45f3-9173-2d6ad82718eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1304.和为零的N个唯一整数/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1304.和为零的N个唯一整数/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,80 +15,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1310.子数组异或查询/main.go">
+        <entry file="file://$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
-              <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1309.解码字母到整数映射/go.mod">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1309.解码字母到整数映射/main_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1309.解码字母到整数映射/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1311.获取你好友已观看的视频/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="363">
+              <caret line="100" column="17" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1304.和为零的N个唯一整数/main.go">
+        <entry file="file://$PROJECT_DIR$/1306.跳跃游戏3/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="42" column="14" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="286">
+              <caret line="87" column="13" lean-forward="true" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1304.和为零的N个唯一整数/main_test.go">
+        <entry file="file://$PROJECT_DIR$/1306.跳跃游戏3/main_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="286">
+              <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1310.子数组异或查询/main_test.go">
+        <entry file="file://$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="916">
+              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1310.子数组异或查询/go.mod">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,10 +72,14 @@
         <option value="$PROJECT_DIR$/1311.获取你好友已观看的视频/main.go" />
         <option value="$PROJECT_DIR$/1304.和为零的N个唯一整数/main_test.go" />
         <option value="$PROJECT_DIR$/1304.和为零的N个唯一整数/main.go" />
+        <option value="$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main_test.go" />
+        <option value="$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main.go" />
+        <option value="$PROJECT_DIR$/1306.跳跃游戏3/main_test.go" />
+        <option value="$PROJECT_DIR$/1306.跳跃游戏3/main.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="140" />
     <option name="y" value="1080" />
     <option name="width" value="1680" />
@@ -138,6 +103,16 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="1304.和为零的N个唯一整数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="1305.两棵二叉搜索树中的所有元素" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="1306.跳跃游戏3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,7 +142,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.Test_sumZero in leetcode/1304">
+  <component name="RunManager" selected="Go Test.Test_canReach in leetcode/1306">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$/1311.获取你好友已观看的视频" />
@@ -176,15 +159,26 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_freqAlphabets in leetcode/1309" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_canReach in leetcode/1306" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/1309.解码字母到整数映射" />
+      <working_directory value="$PROJECT_DIR$/1306.跳跃游戏3" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="leetcode/1309" />
+      <package value="leetcode/1306" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_freqAlphabets$" />
+      <pattern value="^Test_canReach$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_getAllElements in leetcode/1305" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/1305" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_getAllElements$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_sumZero in leetcode/1304" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -198,62 +192,50 @@
       <pattern value="^Test_sumZero$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_xorQueries in leetcode/1310" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/1310.子数组异或查询" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="leetcode/1310" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_xorQueries$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test_xorQueries in main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/1310-子数组异或查询" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/1310-子数组异或查询/main_test.go" />
-      <pattern value="^Test_xorQueries$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.Test_canReach in leetcode/1306" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Test.Test_getAllElements in leetcode/1305" />
         <item itemvalue="Go Test.Test_sumZero in leetcode/1304" />
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Test.Test_freqAlphabets in leetcode/1309" />
-        <item itemvalue="Go Test.Test_xorQueries in leetcode/1310" />
-        <item itemvalue="Go Test.Test_xorQueries in main_test.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_xorQueries_in_leetcode_1310 - 2020.01.07 at 14h 38m 06s.xml">
-      <configuration name="Test_xorQueries in leetcode/1310" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_getAllElements_in_leetcode_1305 - 2020.01.10 at 01h 11m 29s.xml">
+      <configuration name="Test_getAllElements in leetcode/1305" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_freqAlphabets_in_leetcode_1309 - 2020.01.07 at 14h 44m 15s.xml">
-      <configuration name="Test_freqAlphabets in leetcode/1309" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_getAllElements_in_leetcode_1305 - 2020.01.10 at 01h 17m 49s.xml">
+      <configuration name="Test_getAllElements in leetcode/1305" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_sumZero_in_leetcode_1304 - 2020.01.09 at 11h 05m 48s.xml">
-      <configuration name="Test_sumZero in leetcode/1304" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 10h 25m 29s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_sumZero_in_leetcode_1304 - 2020.01.09 at 11h 06m 03s.xml">
-      <configuration name="Test_sumZero in leetcode/1304" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 10h 25m 53s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_sumZero_in_leetcode_1304 - 2020.01.09 at 11h 23m 32s.xml">
-      <configuration name="Test_sumZero in leetcode/1304" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 10h 26m 18s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_sumZero_in_leetcode_1304 - 2020.01.09 at 11h 23m 51s.xml">
-      <configuration name="Test_sumZero in leetcode/1304" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 14h 11m 37s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_sumZero_in_leetcode_1304 - 2020.01.09 at 11h 25m 19s.xml">
-      <configuration name="Test_sumZero in leetcode/1304" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 14h 12m 16s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 14h 13m 01s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 14h 13m 33s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_canReach_in_leetcode_1306 - 2020.01.10 at 14h 14m 04s.xml">
+      <configuration name="Test_canReach in leetcode/1306" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="140" y="1080" width="1680" height="1050" extended-state="0" />
+    <frame x="140" y="1080" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
@@ -269,7 +251,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32834226" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -335,14 +317,42 @@
     <entry file="file://$PROJECT_DIR$/1304.和为零的N个唯一整数/main_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1304.和为零的N个唯一整数/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="42" column="14" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="42" selection-end-column="14" />
+        <state relative-caret-position="102">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="916">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1305.两棵二叉搜索树中的所有元素/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="100" column="17" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1306.跳跃游戏3/main_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1306.跳跃游戏3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="87" column="13" lean-forward="true" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
         </state>
       </provider>
     </entry>
